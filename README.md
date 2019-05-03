@@ -1,4 +1,4 @@
-# BLHel32GKE
+# BLHeli32GKE
 
 BLHeli32 is closed source. 
 
